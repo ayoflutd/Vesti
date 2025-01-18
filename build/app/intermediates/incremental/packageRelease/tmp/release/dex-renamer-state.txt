@@ -1,0 +1,4 @@
+#Sat Jan 18 21:09:36 WAT 2025
+base.0=/Users/admin/StudioProjects/vesti/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

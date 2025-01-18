@@ -1,0 +1,1 @@
+ /Users/admin/StudioProjects/vesti/.dart_tool/flutter_build/c5141e36623337247c5eaa4fd8b6367b/native_assets.yaml: 
